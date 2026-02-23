@@ -4,7 +4,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "install": "npm install sqlite3"
   },
   "dependencies": {
     "express": "^4.18.2",
